@@ -1,0 +1,9 @@
+RAG dla szóstej księgi "Pana Tadeusza" na bazie modelu speakleash/Bielik-7B-Instruct-v0.1.
+
+Wykorzystanie następujących rozwiązań:
+1) RAGatouilee: https://github.com/bclavie/RAGatouille
+2) ColBERT: https://github.com/stanford-futuredata/ColBERT
+3) Langchain: https://python.langchain.com/docs/get_started/introduction
+4) vLLM: https://docs.vllm.ai/en/latest/
+5) Model speakleash/Bielik-7B-Instruct-v0.1
+6) Ksiąga 6 "Pana Tadeusza: https://pl.wikisource.org/wiki/Pan_Tadeusz_(wyd._1921)/Ksi%C4%99ga_sz%C3%B3sta:_Za%C5%9Bcianek
